@@ -3,6 +3,7 @@ from datetime import timedelta
 import json
 import os
 import SimpleHTTPServer
+import BaseHTTPServer
 import SocketServer
 import urllib2
 import urlparse
@@ -83,6 +84,10 @@ class FoodTruckHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
 if __name__ == '__main__':
   os.chdir('client')
   try:
-    SocketServer.TCPServer(("", 8000), FoodTruckHandler).serve_forever()
+    #SocketServer.TCPServer(("", 8000), FoodTruckHandler).serve_forever()
+    server_addr = ('localhost', 8000)
+    httpd = BaseHTTPServer.HTTPServer (server_addr, FoodTruckHandler)
+    httpd.serve_forever ()
+
   finally:
     os.chdir('../')
