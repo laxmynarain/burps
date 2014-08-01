@@ -40,4 +40,4 @@ I did some user testing by asking some of my friends to adopt it. Here are a few
 1. The markers don't show up after 9pm - I have to figure out what's causing this. Obviously some issue with google maps api service. Maybe start by finding out if anyone else is facing these issues on their site.
 2. Once geolocation is enabled outside of sanfrancisco, some users report that food truck search near san francisco doesn't automatically pan. Others see it fine. Could be that the platform/browser is not supported by Google maps. I need to loook into it.
 
-Enjoy the app and give me your feedback. [laxmynarain at gmail dot com]
+Enjoy the app.
