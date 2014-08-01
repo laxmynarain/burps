@@ -4,6 +4,20 @@ burps
 
 This project marks the list of active food trucks operating in San Francisco. I am a beginner at web technologies. I figured this was the easiest way to implementation this project.This project is written primarily in Python and HTML/CSS/JS.It also uses the google maps API to render visualization for easy navigation.
 
+##Philosophy:
+I am a good coder but a beginner at web programming. I just wanted to try out my skills at web programming. Since, I am a beginner I used the simlest implementation that I could think of. I think, programming is not about having knowledge of multiple tools and techniques but it is about being able to think "Computer - sciency" and using the right tools to that end. On the way you may have to learn a lots of tool and tricks, and there is no harm there. :). It's part of the learning and fun. And that's what programming should be - FUN. 
+
+This project was done just to prove that you don't need experience with web programming to provide good web sites. Here is my background. linkedin.com/in/lsadagopan/
+
+Also: This was part of a coding challenge. I'm glad I could complete it in time!
+
+## Technology Choices
+1. I probably would have explored backend js choices, added good looking twitter bootstrap or maybe even done some load testing. But, it's been a very hectic week and the technology choices came down to getting a prototype up and running ASAP and python and simple js did the trick.
+2. If I had more time:
+    1. I would have researched about better ways to write the same project.
+    2. I would have provided ways to integrate into mobile systems (provide maps directions, yelp ratings, transportation choices, etc...)
+    3. Written a more comprehensive unit test module.
+
 ## Technologies
 
 ### Backend
