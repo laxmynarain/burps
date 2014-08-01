@@ -7,7 +7,7 @@ This project marks the list of active food trucks operating in San Francisco. I 
 ##Philosophy:
 I am a good coder but a beginner at web programming. I just wanted to try out my skills at web programming. Since, I am a beginner I used the simlest implementation that I could think of. I think, programming is not about having knowledge of multiple tools and techniques but it is about being able to think "Computer - sciency" and using the right tools to that end. On the way you may have to learn a lots of tool and tricks, and there is no harm there. :). It's part of the learning and fun. And that's what programming should be - FUN. 
 
-This project was done just to prove that you don't need experience with web programming to provide good web sites. Here is my background. __[My Linkedin](http:linkedin.com/in/lsadagopan/)__ 
+This project was done just to prove that you don't need experience with web programming to provide good web sites. Here is my __[background](http:linkedin.com/in/lsadagopan/)__ 
 
 Also: This was part of a coding challenge. I'm glad I could complete it in time!
 
