@@ -5,7 +5,7 @@ burps
 #### This project marks the list of active food trucks operating in San Francisco
 
 This is a very simple project written primarily with Python for data processing and HTML/CSS/JS for the front-end.
-It also uses the google maps API to render a visualization for easy navigation.
+It also uses the google maps API to render visualization for easy navigation.
 
 ## Technologies
 
