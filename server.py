@@ -83,6 +83,6 @@ class FoodTruckHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
 if __name__ == '__main__':
   os.chdir('client')
   try:
-    SocketServer.TCPServer(("", 8088), FoodTruckHandler).serve_forever()
+    SocketServer.TCPServer(("", process.env.PORT || 8088), FoodTruckHandler).serve_forever()
   finally:
     os.chdir('../')
