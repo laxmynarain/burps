@@ -2,12 +2,7 @@ burps
 =====
 ##Food Trucks in San Francisco. __[Check it out!](http://burps.herokuapp.com)__
 
-#### This project marks the list of active food trucks operating in San Francisco
-
-#### I am a beginner at web technologies but a good coder. So, I just figured a way to write the easiest implementation for this project.
-
-This is a project written primarily in Python for data processing and HTML/CSS/JS for the front-end.
-It also uses the google maps API to render visualization for easy navigation.
+#### This project marks the list of active food trucks operating in San Francisco. I am a beginner at web technologies. I figured this was the easiest way to implementation this project.This project is written primarily in Python and HTML/CSS/JS.It also uses the google maps API to render visualization for easy navigation.
 
 ## Technologies
 
