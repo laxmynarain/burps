@@ -4,7 +4,7 @@ burps
 
 #### This project marks the list of active food trucks operating in San Francisco
 
-# I am a beginner at web technologies but a good coder. So, I just figured a way to write the easiest implementation for this project.
+#### I am a beginner at web technologies but a good coder. So, I just figured a way to write the easiest implementation for this project.
 
 This is a project written primarily in Python for data processing and HTML/CSS/JS for the front-end.
 It also uses the google maps API to render visualization for easy navigation.
