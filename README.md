@@ -9,6 +9,8 @@ I am a good coder but a beginner at web programming. I just wanted to try out my
 
 This project was done just to prove that you don't need experience with web programming to provide good web sites. Here is my __[background](http:linkedin.com/in/lsadagopan/)__ 
 
+You can find my resume __[here](http://laxmynarain.github.io/resume/)__
+
 Also: This was part of a coding challenge. I'm glad I could complete it in time!
 
 ## Technology Choices
